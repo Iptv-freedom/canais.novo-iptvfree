@@ -1,0 +1,389 @@
+#EXTINF:-1 
+
+#EXTINF:0,GLOBO 
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/globosp_cfe21c68_b4808edb3cdc1138bc8d3a9763046d6cd526c631/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODA3NDE3NDt9
+
+#EXTINF:-1 tvg-logo=group-title="",SBT HD 
+https://5a1c76baf08c0.streamlock.net/sbtinterior/08afeeqyvzzwtd2ulrwvstydob6zb8x8/chunklist_w860943344.m3u8
+
+#EXTINF:-1 tvg-logo=group-title="",SBT HD 
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1614119248_b1000000.m3u8
+
+#EXTINF:-1 tvg-logo=group-title="",SBT HD 
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w317086829_b350000.m3u8
+
+#EXTINF:-1 tvg-logo=group-title="",SBT HD 
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w317086829_b1000000.m3u8
+
+#EXTINF:-1 tvg-logo=group-title="CANAL ABERTO",REDETV HD 
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+
+#EXTINF:0, Manchete Web
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1848741826.m3u8
+
+#EXTINF:0,RECORD SP
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/record_3554dce5_eb035f3cf0d91973f5d6a4b2be995bf3f9c74b16/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODA3NDMyNTt9
+
+#EXTINF:0,RECORD SP
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0,RECORD SP
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/record_3554dce5_eb035f3cf0d91973f5d6a4b2be995bf3f9c74b16/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODA3NjMxMTt9
+
+#EXTINF:0,RECORD SP
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0,TNT
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
+
+#EXTINF:0,MEGAPIX
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/megapix_a6f16ab4_4225fd5c804814d13d82c6466ac658c18cf73cdc/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODA3NTY4Nzt9
+
+#EXTINF:0,AMC
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/amcbrasil_b7f5113f_c220fc3e2393366f9b69c912df2c0f917339a14e/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODA3Njg1OTt9
+
+#EXTINF:0,HBO 
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/hbo_63266754_6a857bb21110d174b4187a5bd7613c82c6d59b36/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODA3NzM1Mzt9
+
+#EXTINF:0,TNT
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
+
+#EXTINF:-1 tvg-logo="group-title="esportes", SPORTV 
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+
+#EXTINF:-1 tvg-logo="group-title="esportes", SPORTV 3 SD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+
+#EXTINF:0,PREMIER
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
+
+#EXTINF:-1 tvg-logo="group-title="ESPORTES",ESPN 6
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
+
+#EXTINF:-1 tvg-logo="group-title="ESPORTES",ESPN Extra
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
+
+#EXTINF:-1 tvg-logo="group-title="ESPORTES",FOX SPORTS 
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
+
+#EXTINF:-1 tvg-logo="group-title="ESPORTES",FOX SPORTS 
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
+
+#EXTINF:-1 group-title=" BAND SPORTS 
+http://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title=" BAND SPORTS 
+http://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8    
+
+#EXTINF:-1 tvg-id="" tvg-name="All Sports TV" tvg-logo="https://imgur.com/EAwMcTz.png" tvg-shift="0" group-title="Web TV",All Sports TV
+https://5cf4a2c2512a2.streamlock.net:443/dgrau/dgrau/chunklist_w698058298.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Anime TV" tvg-logo="https://imgur.com/peBLNdh.png" group-title="Web TV",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMES & SERIES" tvg-logo="http://toptv2.com:25461/logos/Canal_Sony_UHD.png",CANAL SONY UHD
+http://top.hatv.me:2095/dtv_561535/QpBGAaq0/13730
+
+#EXTINF:-1 group-title="FILMES & SERIES" tvg-logo="http://toptv2.com:25461/logos/cinemax_UHD.png",CINEMAX UHD
+http://top.hatv.me:2095/dtv_561535/QpBGAaq0/13674
+
+#EXTINF:-1 group-title=" DESENHOS ANTIGOS 
+http://stmv1.srvif.com:1935/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 group-title=" DESENHOS ANTIGOS 
+http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8
+
+#EXTINF:0, TV CINE WEB
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w409729964.m3u8
+
+#EXTINF:0, AMC
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/amcbrasil_b7f5113f_c220fc3e2393366f9b69c912df2c0f917339a14e/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMTA5Mjt9
+
+#EXTINF:0, BAND NEWS
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/bandnews_aee544ce_71a783d1e84c0892b32de965a03b2e568ed7cb4b/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMTIzMjt9
+
+#EXTINF:0, BIS
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/bis_53e56691_a5dd5f973ab584800c10fe708404fae12c993d78/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMTM1MTt9
+
+#EXTINF:0, Boomerang
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/boomerang_2659fc51_5d1eea35613c58186bacfca25b4b191ce3aa6aa1/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMTQxMTt9
+
+#EXTINF:0, Canal Off
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/canaloff_12f0de3d_3976f0691bc9b46a9d62a5e88cc5f2d83ae3ca8a/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMTQ4MTt9
+
+#EXTINF:0, Cartoon Network
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/cartoonnetwork_511a418e_c6c1cddfb7c2f31dfd54800fa5e771e4384b6673/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMTU0OTt9
+
+#EXTINF:0, Combate
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/combate_ac3478d6_6f11701de239c9e68de2262a9a803999c3452023/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMTYwOTt9
+
+#EXTINF:0, Comedy Central
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/comedycentral_17037754_274eb6e7374fdea2a6e4d524ce40db03574405b8/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMTY3Njt9
+
+#EXTINF:0, Discovery Theater
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/discoverytheater_904f2cc1_052c3e7c4dfb2a06daf33017b1b2df81b2e8ecd8/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMTc5MDt9
+
+#EXTINF:0, Discovery Turbo
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/discoveryturbo_ca3512f4_cb79a55a4108f1982f9307a5528ecc423eea4b25/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMTg1OTt9
+
+#EXTINF:0, Disney Channel
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/disneychannel_a9334987_81e391bd26f4e36d5200b38f511e780d8b1409b8/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMTk3ODt9
+
+#EXTINF:0, Disney XD
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/disneyxd_d094700e_bb933f3a057cc66ba80d0238c46a1fb07418f515/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMjA3Nzt9
+
+#EXTINF:0, ESPN
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/espn_887309d0_c88b8f933d475dc0428ed140fc6e6da079999c86/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMjE1Mjt9
+
+#EXTINF:0, FX
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/fx_667be543_355e000e5420197db487ccc73e2b953d8f683e71/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMjIxNzt9
+
+#EXTINF:0, FishTV
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/fishtv_e77a7633_1bb13b787e94ad4e8d5cb13c87ae3d7faffc6d9a/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMjM2Njt9
+
+#EXTINF:0, Fox Sports 2
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/foxsports2_fc8d9e6e_4a59e82b70d386a2cdfad92e64243b3fd6150b5e/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMjQ1MTt9
+
+#EXTINF:0, HBO
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/hbo2_05a53e36_a882d151bb51b67d95bf9a43f1ff1019dd1d942f/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMjUzMjt9
+
+#EXTINF:0, HBO Family
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/hbofamily_536fb693_b4cdc91bcbe60b55e05f18197ed01ec8a1947c37/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMjYwMDt9
+
+#EXTINF:0, HBO Mundi
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/hbomundi_9f682df2_00f10fa67536d7addea96fc0e36dfb63b0b3f345/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMjY2Mzt9
+
+#EXTINF:0, HBO Plus
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/hboplus_39dfc9ff_aa903f51adaa610ce5a7f546dafdd5bd5097b245/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMjcyODt9
+
+#EXTINF:0, HBO Pop
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/hbopop_ce09b127_5599504a4b6339b2d9594d1ddce5349ae69e2659/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMjc5OTt9
+
+#EXTINF:0, HBO Signature
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/hbosignature_fa1a6512_209cfe4d13f12cbe1745daf36fd3bec24fe009ec/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMzExMDt9
+
+#EXTINF:0, HBO
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/hbo_63266754_6a857bb21110d174b4187a5bd7613c82c6d59b36/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMzIxNTt9
+
+#EXTINF:0, HGTV
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/hgtv_2473f015_ea73ef50b7f49562d847ce91a4f43a35c5d16d95/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMzI2Mzt9
+
+#EXTINF:0, Lifetime
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/lifetime_7a9ca14d_19ef7810928afaec235cd71d8652ec21dd6cfb8e/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMzMzODt9
+
+#EXTINF:0, Megapix
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/megapix_a6f16ab4_4225fd5c804814d13d82c6466ac658c18cf73cdc/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMzQwODt9
+
+#EXTINF:0, Premiere 3
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/premiere3_b903ea63_f6a9671d4284533d47eeb883d9d4fc8dd4b1ad70/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMzUzOTt9
+
+#EXTINF:0, Premiere 
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiereclubes_3f1522d0_140fdaad7fec2a0562997b77b3c2b548185b3e12/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMzYyNDt9
+
+#EXTINF:0, SPACE
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/space_e6c3dd63_0742b2ea87e870dcd51d2ccb31115fb0cb096e85/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMzc4Mzt9
+
+#EXTINF:0, SporTV 
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/sportv3_e1a864f0_08f7fb7a1e6b492fab1bc6e1d1c7f587b6508ca0/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMzg1NDt9
+
+#EXTINF:0, Studio Universal
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/studiouniversal_8b4753ed_4be02c482304a94d461c1b296b68412c281cdbc6/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwMzkyMTt9
+
+#EXTINF:0, TCM
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/tcm_13b72490_e5ffab41cc090b2448c5b60958fdddae38b5419f/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwNDAzNzt9
+
+#EXTINF:0, TNT
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/tnt_9109c85a_f1647cc82ca2628713a5aaa911aa0bb3aeb72b95/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwNDExNDt9
+
+#EXTINF:0, TLC
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/tlc_15aa0c7e_81952619da56d31c9ccdaabdc5f183b3b4ebc15b/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwNDE1NTt9
+
+#EXTINF:0, Telecine Action
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/telecineaction_be057d4c_7c66720868c1f67485f1c4f91528e715cd828429/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwNDIxMTt9
+
+#EXTINF:0, Telecine Cult
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecinecult_8d255e1e_9bd1424a4b4d362a1b5fc9d4be932e6e88bc20ea/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwNDI1Nzt9
+
+#EXTINF:0, Telecine Fun
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/telecinefun_ae1e7198_a0bec2294f4493df85cc5f36626656e3caa913b4/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwNDMwNjt9
+
+#EXTINF:0, Telecine Pipoca
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/telecinepipoca_fd937516_881c1c94d1ea5f0d48bda9129a4208c0f0f8772a/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwNDM1MDt9
+
+#EXTINF:0, Telecine Premium
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/telecinepremium_a929eb33_ba1c5f9d4046f86181c0787430adb464f795e79c/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwNDQwMDt9
+
+#EXTINF:0, Universal Channel
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/universalchannel_8290abc6_bb457cbce0a219606b7f471989c0fc2c103786f8/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwNDQ3Mzt9
+
+#EXTINF:0, Warner Channel
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/warnerchannel_0a57cb53_5b3fb6d58902882304429ff53755f7b1bb75eb9a/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwNDUxOTt9
+
+#EXTINF:0, A&E Mundo
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/aemundo_c28aca23_24388cd181eaa7c73120680c96d7a01139471b39/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwNDU2ODt9
+
+#EXTINF:0, Animal Planet
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/animalplanet_e114c448_fd3eaf345902c7d56814ece8ac25a6f5772a5eea/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwNDYyMzt9
+
+#EXTINF:0, Cinemax
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/cinemax_22d200f8_56f13e93969d3f07ebc891da8bd171ba608f92cb/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwNDY3Mzt9
+
+#EXTINF:0, ESPN 2
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/espn2_6c1e671f_fddc93120de27d118b380bc2d13d0a4d49508703/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwNDc1MTt9
+
+#EXTINF:0, ESPN Extra
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/espnextra_93f271ad_55d2fbc8b23c906aaa923c3923bad46afcecf752/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwNDgxMjt9
+
+#EXTINF:0, Fox Life
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/foxlife_66435217_f991628409a8558573cd6d29a595f2047450b482/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwNDg1NTt9
+
+#EXTINF:0, Fox sport
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/foxsports_8a1beaee_95188bc469eccf1b95f97a6f63ababa600041c3a/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwNDkxOTt9
+
+#EXTINF:0, Fox 
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/fox_5a5b0f9b_972b91967fb7780101ff40cad35c42518dcea916/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwNDk2Mjt9
+
+#EXTINF:0, SporTV 2
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/sportv2_22ab0e43_7059273a4241acc9a27599c2e5c0abd700ad996a/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwNTA2Mjt9
+
+#EXTINF:0, SporTV 
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/sportv_91dfde1d_151f9f31f7edaaff7a710f09d8f0ad4743a5a33c/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODEwNTExNDt9
+
+#EXTINF:0, CANAIS
+http://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+
+#EXTINF:0, SBT SP 
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
+
+#EXTINF:0, SBT SP 
+https://5a1c76baf08c0.streamlock.net/sbtinterior/08afeeqyvzzwtd2ulrwvstydob6zb8x8/chunklist_w860943344.m3u8 
+
+#EXTINF:0, REDE TV 
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000 
+
+#EXTINF:0, HBO
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/hbo_63266754_6a857bb21110d174b4187a5bd7613c82c6d59b36/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODA3NzM1Mzt9 
+
+#EXTINF:0, COMBATE 
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/combate_ac3478d6_6f11701de239c9e68de2262a9a803999c3452023/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODA3NDc5Mzt9
+
+
+#EXTINF:0, COMBATE
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/combate_ac3478d6_6f11701de239c9e68de2262a9a803999c3452023/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODA3NTgwODt9
+
+#EXTINF:0, DESENHO 
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/tooncast_8effee40_43c4319695c22de345295faa51a6d3b564778680/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODA3NzAxNzt9
+
+#EXTINF:0, NATION 
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/nationalgeographic_2e01e174_7a6baaea746e7f1a9e8f8e333696fca3cc7edec4/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTkxLjM3LjE3MC4xNjgiO2k6MTtzOjEwMzoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg5LjAuNDM4OS4xMTQgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYxODA3ODE5NTt9
+
+#EXTINF:0, SBT SP 
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:0, SBT SP 
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:0, CANAL 
+https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
+
+#EXTINF:0, REDE TV 
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+
+#EXTINF:0, DESENHO 
+http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
+
+#EXTINF:0, AMC
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/33335
+
+#EXTINF:0, DISCORVERY CHANNEL 
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/43312
+
+#EXTINF:0, NICK DESENHO 
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/43324 
+
+#EXTINF:0, NICK DESENHO 
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/33334 
+
+#EXTINF:0, FILMES 
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/43315
+
+#EXTINF:0, STAR CHANNEL 
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/43635
+
+#EXTINF:0, CINEMAX 
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/44146
+
+#EXTINF:0, HBO 
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/44147
+
+#EXTINF:0, HBO 
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/44148 
+
+#EXTINF:0, SPORT TV 
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/44149
+
+#EXTINF:0, COMBATE 
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/44152
+
+#EXTINF:0, FILME 
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/44160 
+
+#EXTINF:0, HBO 
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/44162
+
+#EXTINF:0, HBO 
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/44164
+
+#EXTINF:0, SPORT TV 
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/44167
+
+#EXTINF:0, BAND SPORT
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/44168
+
+#EXTINF:0, MEGAPIX 
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/44174
+
+#EXTINF:0,TELECINE AÇÃO
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/44175
+
+#EXTINF:0,TELECINE 
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/44176
+
+#EXTINF:0,TELECINE 
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/44178
+
+#EXTINF:0,TELECINE 
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/44179
+
+#EXTINF:0,TELECINE 
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/44180
+
+#EXTINF:0, ESPORTE 
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/44183
+
+#EXTINF:0, ESPORTE 
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/44184
+
+#EXTINF:0, ESPORTE 
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/44186
+
+#EXTINF:0, ESPORTE 
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/44187
+
+#EXTINF:0, DESENHO 
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/44188 
+
+#EXTINF:0, SBT
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/44189
+
+#EXTINF:0, UFC
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/44190
+
+#EXTINF:0, UFC
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/44236
+
+#EXTINF:0, FILME 
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/44257
+
+#EXTINF:0, ANIMAL 
+http://top.hatv.me:2095/dtv_976603/p7tS0mrh/14154
